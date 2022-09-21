@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# robo-friends
+
+Basic react app built as Zero to mastery class project. App is linked to a .json placeholder API
+<img src ="![image](https://user-images.githubusercontent.com/98435259/191628012-9aef269d-fbae-4494-9ca9-7234fabf4235.png)" alt="Robo friends preview">
+Basic react app built as Zero to mastery class project. App is linked to a .json placeholder API
+<img src ="(https://user-images.githubusercontent.com/98435259/191628012-9aef269d-fbae-4494-9ca9-7234fabf4235.png)" alt="Robo friends preview">
+Basic react app built as Zero to mastery class project. App is linked to a .json placeholder API
+<img src ="https://user-images.githubusercontent.com/98435259/191628012-9aef269d-fbae-4494-9ca9-7234fabf4235.png" alt="Robo friends preview">
