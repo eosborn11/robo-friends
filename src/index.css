@@ -5,9 +5,21 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to bottom, #ff00ff 0%, #3333cc 100%);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.tc{
+  font-size: 50pt;
+}
+h1{
+  color: rgb(6, 0, 17);
+  font-style: italic;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #1411bb, 0 0 40px #4916c2, 0 0 50px #160fc9, 0 0 60px #160fc9, 0 0 70px #160fc9;
+}
+h2{
+  font-size: 25pt;
 }
